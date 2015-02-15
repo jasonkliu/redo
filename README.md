@@ -18,3 +18,5 @@ $ r -G
 
 * Parsing of all command line arguments (starting with -) for quick replacement
 * Option to remove all of above arguments and use specified ones instead
+* Locate user's history file if not `~/.bash_history`
+

@@ -23,5 +23,5 @@ done
 
 FIRST="$FIRST $(echo "$CMD" | cut -d' ' -f2-)"
 
-echo $FIRST
+echo "-> $FIRST"
 eval $FIRST
